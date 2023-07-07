@@ -1,4 +1,4 @@
-# MLAI
+# DSMLAI
 MLAI
 
 Coursera: [https://www.coursera.org/specializations/deep-learning](https://www.coursera.org/specializations/machine-learning-introduction)https://www.coursera.org/specializations/machine-learning-introduction
