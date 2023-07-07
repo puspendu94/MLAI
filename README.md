@@ -13,3 +13,5 @@ https://virgili0.github.io/Virgilio/   =>>>   https://github.com/virgili0/Virgil
 https://github.com/AssemblyAI-Examples/ML-Study-Guide
 
 By Engineer https://github.com/AssemblyAI-Examples/ML-Study-Guide
+
+By MS: https://github.com/microsoft/ML-For-Beginners
