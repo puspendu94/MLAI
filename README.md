@@ -11,3 +11,5 @@ Kaggle's Practice Competitions:
 
 https://virgili0.github.io/Virgilio/   =>>>   https://github.com/virgili0/Virgilio
 https://github.com/AssemblyAI-Examples/ML-Study-Guide
+
+By Engineer https://github.com/AssemblyAI-Examples/ML-Study-Guide
