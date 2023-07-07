@@ -9,5 +9,5 @@ Kaggle's Practice Competitions:
 1. https://www.kaggle.com/c/titanic
 2. https://www.kaggle.com/c/digit-recognizer
 
-https://virgili0.github.io/Virgilio/   =>>>   
+https://virgili0.github.io/Virgilio/   =>>>   https://github.com/virgili0/Virgilio
 https://github.com/AssemblyAI-Examples/ML-Study-Guide
